@@ -37,7 +37,7 @@
 | UR                | URI or URL                                   | N                | anyURI        | string          |
 | US                | Unsigned Short                               | 2                | unsignedShort | number          |
 | UT                | Unlimited Text                               | N                | string        | string          |
-| UV                | Unsigned 64-bit Very Long                    | 8 bytes          | string        | number or string |
+| UV                | Unsigned 64-bit Very Long                    | 8 bytes          | unsignedLong  | number or string |
 | OB or OW          | Other Byte or Word                           | N                | base64Binary  | Base64 encoded string |
 | US or SS          | Unsigned Short or Signed Short               | 2                | anyType       | number          |
 | US or SS or OW    | Unsigned Short or Signed Short or Other Word | N                | anyType       | number          |
